@@ -1,0 +1,18 @@
+{
+  "name": "punctuator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
